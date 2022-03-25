@@ -22,12 +22,14 @@
 | ------------- |
 
 # Demo Picutres :
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/loggedHomePage.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/loginpage.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/victimpage.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/contactpage.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/createaccount.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/toutrialpage.png"/>
+<img src="https://github.com/dontKnew/WMS/blob/main/dist/github%20image/login.png"/>
+<img src="https://github.com/dontKnew/WMS/blob/main/dist/github%20image/dashboard.png"/>
+<img src="https://github.com/dontKnew/WMS/blob/main/dist/github%20image/report.png"/>
+<img src="https://github.com/dontKnew/WMS/blob/main/dist/github%20image/employee.png"/>
+<img src="https://github.com/dontKnew/WMS/blob/main/dist/github%20image/customer.png"/>
+<img src="https://github.com/dontKnew/WMS/blob/main/dist/github%20image/change.png"/>
+<img src="https://github.com/dontKnew/WMS/blob/main/dist/github%20image/newmember.png"/>
+>
 
 ## Technology Used :
 > * PHP & MYSQL Database
