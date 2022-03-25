@@ -21,7 +21,7 @@
 |  Many more features, you can checkout to my website|
 | ------------- |
 
-## Demo Picutres :
+# Demo Picutres :
 <img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/loggedHomePage.png"/>
 <img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/loginpage.png"/>
 <img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/victimpage.png"/>
