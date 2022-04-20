@@ -1,6 +1,7 @@
 <?php include_once('header.php'); 
 if(isset($_REQUEST['updateCustomer'])){
-             $sql = "UPDATE  customers_wms SET `name` = '".$_POST['name']."', `father_name` = '".$_POST['father']."', `mobile_number` = '".$_POST['number']."', `purpose` = '".$_POST['purpose']."', `charges` = '".$_POST['charges']."', `recieved` = '".$_POST['recieved']."', `balanced` = '".$_POST['charges']-$_POST['recieved']."', `address` = '".$_POST['address']."', `work_status` = '".$_POST['customerStatus']."' WHERE id = '".$_GET['id']."'";
+	     $balanced = $_POST['charges']-$_POST['recieved'];
+             $sql = "UPDATE  customers_wms SET `name` = '".$_POST['name']."', `father_name` = '".$_POST['father']."', `mobile_number` = '".$_POST['number']."', `purpose` = '".$_POST['purpose']."', `charges` = '".$_POST['charges']."', `recieved` = '".$_POST['recieved']."', `balanced` = '".$balanced."', `address` = '".$_POST['address']."', `work_status` = '".$_POST['customerStatus']."' WHERE id = '".$_GET['id']."'";
               $result = $conn->query($sql);
               if($result==true){
                   echo "<script> console.log('Updated Customer')</script>";
