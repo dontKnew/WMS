@@ -3,6 +3,9 @@
 > You can download this project and run your local machine (computer)
 <hr>
 # <a href="http://coding.great-site.net/shiva/member/login.php" target='blank'> checkout Demo </a>
+  
+  - Admin Email - israfil123.sa@gmail.com
+  - Admin Password - admin
 <hr>
 
 ## Project Features :
