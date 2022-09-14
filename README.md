@@ -4,7 +4,7 @@
 <hr>
 # <a href="http://coding.great-site.net/shiva/member/login.php" target='blank'> checkout Demo </a>
   
-  - Admin Email - israfil123.sa@gmail.com
+  - Admin Email - admin@docs.com
   - Admin Password - admin
 <hr>
 
